@@ -1,8 +1,10 @@
 
 LANGE JOHNNY
 
+YES
 
-
+NO
+KURK IS kurk
 } else {
     $dicered = 3;
     $diceblue = 2;
@@ -27,7 +29,7 @@ $dicetotal = $dicered + $diceblue;
         table tr td {
             border: none;
             border-collapse: collapse;
-        }
+        }kurk
         td {
             width: 20px;
             height: 20px;
