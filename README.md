@@ -17,5 +17,14 @@ r
 ewr
 ew
 
+mhkuhdi
+f;
+'f
+gl
+'gl
+'gf
+l
+'l
+'l
 
 stop
