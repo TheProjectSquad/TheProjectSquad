@@ -1,3 +1,7 @@
+
+LANGE JOHNNY
+
+
 <!DOCTYPE html>
 <html lang="en"><?php
 //Maximum dice per color
