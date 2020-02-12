@@ -23,6 +23,15 @@ f;
 gl
 'gl
 'gf
+als
+ik
+iets
+opslaa
+dan 
+komt
+dat
+hier
+in
 l
 'l
 'l
