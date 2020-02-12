@@ -1,18 +1,21 @@
 # TheProjectSquad
-kak
-rfrttf
-jow
-test
+Stan
+Didier
+Sem
+Wesley
+YEASH
 
+ewkljriew
 er
-we
+ew
 r
 ew
-rew
 r
-w
-r
-we
-r
-we
+ew
 
+r
+ewr
+ew
+
+
+stop
