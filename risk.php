@@ -4,6 +4,8 @@ LANGE JOHNNY
 YES
 
 NO
+
+YES
 KURK IS kurk
 } else {
     $dicered = 3;
