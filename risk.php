@@ -21,6 +21,8 @@ if ($dicered <= $diceblue) {
 //Calculate total count of dice to be created
 $dicetotal = $dicered + $diceblue;
 ?>
+
+idffidsfhdsffhds
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
