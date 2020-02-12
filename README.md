@@ -1,4 +1,5 @@
 # TheProjectSquad
-kak
-rfrttf
-jow
+Stan
+Didier
+Sem
+Wesley
