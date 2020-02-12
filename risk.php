@@ -2,17 +2,7 @@
 LANGE JOHNNY
 
 
-<!DOCTYPE html>
-<html lang="en"><?php
-//Maximum dice per color
-$max_dice = 20;
-//Set dice count
-//If user changed data use this data
-if (isset($_POST["post"])) {
-    $dicered = $_POST["r_dice"];
-    $diceblue = $_POST["b_dice"];
-    $match = $_POST["match"];
-//Default count of dice
+
 } else {
     $dicered = 3;
     $diceblue = 2;
