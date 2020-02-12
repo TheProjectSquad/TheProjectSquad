@@ -11,6 +11,8 @@ KURK IS kurk
     $dicered = 3;
     $diceblue = 2;
     $match = 2;
+
+    ja
 };
 //Set maximum for match (based on lowest amount of dice)
 if ($dicered <= $diceblue) {
